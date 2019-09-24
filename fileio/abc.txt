@@ -1,0 +1,8 @@
+uHi I am Ahamad Raza
+Who are you
+abc
+A65
+100.5
+a
+true
+Hello PrintWriter
